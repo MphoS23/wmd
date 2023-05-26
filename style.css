@@ -6,22 +6,22 @@
  text-decoration: none;
 }
 @media screen and (max-width: 1200px){
-   .movie-item{
+   .container{
        width: calc(25% - 16px);
    }
 }
 @media screen and (max-width: 992px){
-   .movie-item{
+   .container{
        width: calc(33.3333% - 16px);
    }
 }
 @media screen and (max-width: 768px){
-   .movie-item{
+   .container{
        width: calc(50% - 16px);
    }
 }
 @media screen and (max-width: 576px){
-   .movie-item{
+   .container{
        width: calc(100% - 16px);
    }
 }
