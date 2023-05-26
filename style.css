@@ -5,26 +5,7 @@
  list-style: none;
  text-decoration: none;
 }
-@media screen and (max-width: 1200px){
-   .container{
-       width: calc(25% - 16px);
-   }
-}
-@media screen and (max-width: 992px){
-   .container{
-       width: calc(33.3333% - 16px);
-   }
-}
-@media screen and (max-width: 768px){
-   .container{
-       width: calc(50% - 16px);
-   }
-}
-@media screen and (max-width: 576px){
-   .container{
-       width: calc(100% - 16px);
-   }
-}
+
 body {
  font-family: 'Sen', sans-serif;
  user-select: none;
